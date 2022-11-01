@@ -1,0 +1,49 @@
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe.config
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.pdb
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csprojResolveAssemblyReference.cache
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.EncryptionCodex.resources
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.Properties.Resources.resources
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csproj.GenerateResource.Cache
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.exe
+c:\users\b2briju\documents\visual studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.pdb
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe.config
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.exe
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.pdb
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.pdb
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csprojResolveAssemblyReference.cache
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.EncryptionCodex.resources
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.Properties.Resources.resources
+C:\Users\b2briju\Desktop\For Lian Lee\Biometric Authentication Sourcecode\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csproj.GenerateResource.Cache
+E:\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe.config
+E:\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.exe
+E:\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe.config
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.exe
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csprojResolveAssemblyReference.cache
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.EncryptionCodex.resources
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.Properties.Resources.resources
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csproj.GenerateResource.Cache
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe.config
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.exe
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csprojResolveAssemblyReference.cache
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.EncryptionCodex.resources
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.Properties.Resources.resources
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\Not Work\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csproj.GenerateResource.Cache
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe.config
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.exe
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\bin\Debug\EncryptionCodex.pdb
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csproj.AssemblyReference.cache
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.EncryptionCodex.resources
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.Properties.Resources.resources
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csproj.GenerateResource.cache
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.csproj.CoreCompileInputs.cache
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.exe
+C:\Users\brightson\Downloads\EncryptionCodex-20221101T091035Z-001\EncryptionCodex\EncryptionCodex\obj\Debug\EncryptionCodex.pdb
